@@ -1,13 +1,6 @@
 <div align="center">
 
-# Hi there 👋
-
-<div align="center">
-
-![GitHub dddd](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
-
-</div>
+# Hi, I'm [Your Name] 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
@@ -45,6 +38,17 @@ I'm a [Your Title/Profession] with a passion for [Your Interests, e.g., web deve
 - **[Kubala](https://github.com/YourUsername/Kubala)**  
   *Description:* A mobile app to connect the traditional pottery industry with the modern world.  
   *Tech Stack:* Swift, Google API, Firebase Authentication, etc.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
+
+</div>
 
 ---
 
