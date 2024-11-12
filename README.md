@@ -7,6 +7,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
 
 </div>
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
+
+</div>
 
 ---
 
