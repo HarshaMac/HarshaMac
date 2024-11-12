@@ -47,17 +47,6 @@ I'm a [Your Title/Profession] with a passion for [Your Interests, e.g., web deve
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default)
-
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
