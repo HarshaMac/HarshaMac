@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
-
-### 📊 GitHub Stats
+# Hi there 👋
 
 <div align="center">
 
