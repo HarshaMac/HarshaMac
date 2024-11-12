@@ -1,7 +1,7 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   
-  ### [YourName]'s GitHub Stats
+  ### [Harsha]'s GitHub Stats
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&hide=prs,issues)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
