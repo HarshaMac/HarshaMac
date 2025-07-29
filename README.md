@@ -85,5 +85,5 @@ Machine Learning | Deep Learning | Artificial Intelligence | Neural Networks | A
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" />
                     </picture>
                     </a></p>
-                  <br><br>
+                  <br>
 <a href="https://www.buymeacoffee.com/harshamac"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
