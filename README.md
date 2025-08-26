@@ -15,7 +15,7 @@ Currently exploring opportunities to apply my skills in research or industry set
 Machine Learning | Deep Learning | Artificial Intelligence | Neural Networks | Applied NLP | TensorFlow | Keras | Python | Model Evaluation | Data Analysis
 
 *   🌍  I'm based in Australia
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/harshamac/)
+*   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/harshamadushanka/)
 *   ✉️  You can contact me at [uharshamadushanka@gmail.com](mailto:uharshamadushanka@gmail.com)
 *   🚀  I'm currently working on [Virtusa](http://www.virtusa.com)
 *   🧠  I'm learning Neural Language Processing - NLP
